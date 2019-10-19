@@ -9,3 +9,13 @@ In this project I have approached the problem in a somewhat similar way, by brea
 storing each chunk as a seperate document with a unique Id, and then retrieving the data using the same.
 
 The code is entirely pythonic in nature and uses common python libraries.
+
+libraries/Dependencies used:
+1) pymongo
+2) math
+3) sys
+4) numpy
+5) pandas
+6) uuid
+7) datetime
+8) json
