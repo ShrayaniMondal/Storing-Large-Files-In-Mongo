@@ -10,7 +10,7 @@ storing each chunk as a seperate document with a unique Id, and then retrieving 
 
 The code is entirely pythonic in nature and uses common python libraries.
 
-libraries/Dependencies used:
+Libraries/Dependencies used:
 1) pymongo
 2) math
 3) sys
